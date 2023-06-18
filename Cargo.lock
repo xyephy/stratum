@@ -450,7 +450,7 @@ version = "0.1.0"
 
 [[package]]
 name = "common_messages_sv2"
-version = "0.1.5"
+version = "0.1.6"
 dependencies = [
  "binary_sv2",
  "const_sv2",
@@ -640,7 +640,7 @@ dependencies = [
 
 [[package]]
 name = "derive_codec_sv2"
-version = "0.1.3"
+version = "0.1.4"
 dependencies = [
  "binary_codec_sv2",
 ]
